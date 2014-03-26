@@ -1,0 +1,1 @@
+require_relative "../lib/service_injector"
